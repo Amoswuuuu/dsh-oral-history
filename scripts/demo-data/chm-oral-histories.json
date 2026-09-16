@@ -1,0 +1,397 @@
+[
+  {
+    "catalogId": "102658036",
+    "title": "Knuth (Donald) oral history",
+    "description": "In this wide-ranging interview conducted by Edward Feigenbaum, Donald Knuth talks about the progression of his life and career. Topics include his family background and early interest in music, physics and mathematics, his first exposure to programming, finding a mentor, and writing a doctoral thesis. He describes how \"The Art of Computer Programming\" became \"the story of my life\", and why it was put on hold for the TeX and METAFONT projects. He also talks about personal work habits, programming style, analysis of algorithms, the influence of religion in his life, and his advice to the next generation of scientists.",
+    "url": "https://www.computerhistory.org/collections/catalog/102658036/",
+    "interviewee": "Donald E. Knuth",
+    "birthYear": 1938,
+    "roles": [
+      "计算机科学家",
+      "算法与排版系统设计者"
+    ],
+    "affiliations": [
+      "Stanford University"
+    ],
+    "fields": [
+      "算法分析",
+      "程序设计语言",
+      "数字排版"
+    ],
+    "interviewers": [
+      "Edward Feigenbaum"
+    ],
+    "interviewYear": 2007,
+    "location": "Stanford, California",
+    "tags": [
+      "AI史",
+      "计算机史",
+      "算法",
+      "TeX"
+    ],
+    "importance": 5,
+    "summary": "Knuth 回顾从音乐、物理转向计算的一生：程序设计的早期训练、导师影响、写作《计算机程序设计艺术》，以及为排版中断该书而开发 TeX/METAFONT 的经过。",
+    "glossary": [
+      {
+        "term": "METAFONT",
+        "variants": [
+          "meta font",
+          "metafont"
+        ],
+        "kind": "term",
+        "note": "与 TeX 配套的字体描述系统"
+      }
+    ],
+    "bio": "高德纳（Donald Knuth），算法分析的奠基者，《计算机程序设计艺术》作者，TeX 与 METAFONT 的创造者。"
+  },
+  {
+    "catalogId": "102658035",
+    "title": "Feigenbaum (Edward) oral history, interviewed by Donald Knuth : session one",
+    "description": "Edward Feigenbaum is a professor of Computer Science and co-scientific director of the Knowledge Systems Laboratory at Stanford University. Feigenbaum served as chief scientist of the United States Air Force from 1994 to 1997. Professor Feigenbaum was chairman of the Computer Science Department and director of the Computer Center at Stanford University. Until 1992, Feigenbaum was co-principal investigator of the national computer facility for applications of artificial intelligence to medicine and biology known as the SUMEX-AIM facility, established by the National Institute of Health (NIH) at Stanford University. He is past president of the American Association for Artificial Intelligence. He has served on the National Science Foundation Computer Science Advisory Board, an ARPA study committee for Information Science and Technology; and on the National Research Council's Computer Science and Technology Board. He has been a member of the Board of Regents of the National Library of Medicine. He was the co-editor of the encyclopedia, The Handbook of Artificial Intelligence, and of the early book, Computers and Thought, published by McGraw-Hill. He is co-author of the McGraw-Hill book, Applications of Artificial Intelligence in Organic Chemistry: The DENDRAL Program and was the founding editor of the McGraw-Hill Computer Science Series. He is co-author with Pamela McCorduck of the book The Fifth Generation: Artificial Intelligence and Japan's Computer Challenge to the World, published by Addison-Wesley (1983) and by New American Library (1984). He is also co-author with Penny Nii and Pamela McCorduck of the book, The Rise of the Expert Company, on corporate successes in the use of expert systems, published by Times Books in New York and Macmillan in London (1988). He is a co-founder of three start-up firms in applied artificial intelligence, IntelliCorp, Teknowledge and Design Power Inc. and served as a member of the Board of Directors of IntelliCorp and Design Power Inc. He also was a member of the Board of Directors of Sperry Corporation prior to its merger with Burroughs. He is a member of the Advisory Council of the Kansai Silicon Valley Venture Forum. He was elected to the National Academy of Engineering in 1986. In the same year, he was elected to the Productivity Hall of Fame of the Republic of Singapore. He is an elected Fellow of the American Association for Artificial Intelligence, the honorary American College of Medical Informatics. He was elected to the American Academy of Arts and Sciences in 1991. He is the first recipient of the Feigenbaum Medal, an award established in his honor by the World Congress of Expert Systems. He was elected Fellow to the American Institute of Medical and Biological Engineering in January 1994. He was a recipient of the 1994 ACM Turing Award. He was named Kumagai Professor of Computer Science at Stanford University in 1995. He received the U.S. Air Force Exceptional Civilian Service Award in 1997.",
+    "url": "https://www.computerhistory.org/collections/catalog/102658035/",
+    "interviewee": "Edward A. Feigenbaum",
+    "birthYear": 1936,
+    "roles": [
+      "人工智能研究者",
+      "专家系统奠基者"
+    ],
+    "affiliations": [
+      "Stanford University",
+      "Knowledge Systems Laboratory",
+      "United States Air Force"
+    ],
+    "fields": [
+      "专家系统",
+      "知识工程",
+      "人工智能"
+    ],
+    "interviewers": [
+      "Donald Knuth"
+    ],
+    "interviewYear": 2007,
+    "tags": [
+      "AI史",
+      "专家系统",
+      "知识工程"
+    ],
+    "importance": 5,
+    "summary": "Feigenbaum 讲述在 Stanford 建立知识系统实验室、开创专家系统与知识工程方向的过程，以及担任美国空军首席科学家期间的经历。",
+    "bio": "爱德华·费根鲍姆（Edward Feigenbaum），专家系统与知识工程的奠基者，1994 年图灵奖得主。"
+  },
+  {
+    "catalogId": "102658125",
+    "title": "McCarthy (John) oral history",
+    "description": "Computer science legend John McCarthy speaks with Stanford University AI researcher and professor of computer science, Nil Nilsson. McCarthy discusses his early academic training and influences at Caltech and Princeton University. He then describes his early work at MIT and Dartmouth College in which he helped organize the highly influential Dartmouth Summer Research Project on Artificial Intelligence, the seminal first conference in the field. McCarthy then discusses his work at Stanford University and briefly summarizes some of the mathematical underpinnings of the logical models he uses in explaining and understanding computer systems.",
+    "url": "https://www.computerhistory.org/collections/catalog/102658125/",
+    "interviewee": "John McCarthy",
+    "birthYear": 1927,
+    "deathYear": 2011,
+    "roles": [
+      "人工智能先驱",
+      "LISP 创造者"
+    ],
+    "affiliations": [
+      "MIT",
+      "Dartmouth College",
+      "Stanford University"
+    ],
+    "fields": [
+      "人工智能",
+      "符号计算",
+      "程序设计语言"
+    ],
+    "interviewers": [
+      "Nils Nilsson"
+    ],
+    "interviewYear": 2006,
+    "location": "Stanford, California",
+    "tags": [
+      "AI史",
+      "计算机史",
+      "LISP",
+      "达特茅斯会议"
+    ],
+    "importance": 5,
+    "summary": "McCarthy 谈 Caltech 与 Princeton 的学术训练、MIT 与 Dartmouth 时期的早期工作，包括组织 1956 年达特茅斯会议并创造 LISP 的经过。",
+    "glossary": [
+      {
+        "term": "LISP",
+        "variants": [
+          "lisp",
+          "Lisp"
+        ],
+        "kind": "term",
+        "note": "McCarthy 创造的符号处理语言"
+      }
+    ],
+    "bio": "约翰·麦卡锡（John McCarthy），\"人工智能\"一词的提出者，LISP 语言创造者，达特茅斯会议组织者之一。"
+  },
+  {
+    "catalogId": "102792725",
+    "title": "Pearl, Judea oral history",
+    "description": "In this interview, Judea Pearl discusses his life and long career. He begins by recounting his family background, and then his youth and education in Israel. Next, Pearl discusses his army service, experience of a kibbutz, and his technical education as an undergraduate at the Technion. He also discusses his wife, the software developer Ruth Pearl, whom he met at the Technion. Pearl then recounts the couple’s move to the United States, where Pearl studied electrical engineering while working. He discusses his work at RCA’s Sarnoff Laboratory and his PhD, both in superconducting electronics, at the Polytechnic Institute of Brooklyn. Pearl then recounts the couple’s move to California in the mid 1960s, with Ruth Pearl working at TRW and he at Electronic Memories. With the rise of semiconductor electronics, Pearl decided to move into software and secured a faculty position at UCLA, where he has remained ever since. He recounts his moves into statistics and artificial intelligence at UCLA, and details his route to the development of Bayesian Networks. Pearl details his work on Bayesian Networks, and the trajectory of his work on causal reasoning. The interview concludes with Pearl’s reflections on his work, the state of artificial intelligence research, and his involvements with the Daniel Pearl Foundation and issues related to Israel.",
+    "url": "https://www.computerhistory.org/collections/catalog/102792725/",
+    "interviewee": "Judea Pearl",
+    "birthYear": 1936,
+    "roles": [
+      "计算机科学家",
+      "因果推理理论家"
+    ],
+    "affiliations": [
+      "UCLA",
+      "Technion"
+    ],
+    "fields": [
+      "贝叶斯网络",
+      "因果推断",
+      "人工智能"
+    ],
+    "interviewYear": 2019,
+    "location": "Los Angeles, California",
+    "tags": [
+      "AI史",
+      "因果推断",
+      "贝叶斯网络",
+      "图灵奖"
+    ],
+    "importance": 5,
+    "summary": "Pearl 回忆在以色列的成长与 Technion 的工程教育、军队与基布兹经历，以及其后在贝叶斯网络与因果推断上的工作，如何改变了 AI 处理不确定性的方式。",
+    "bio": "朱迪亚·珀尔（Judea Pearl），贝叶斯网络与因果推断的奠基者，2011 年图灵奖得主。"
+  },
+  {
+    "catalogId": "102738244",
+    "title": "Hamilton, Margaret oral history",
+    "description": "In this oral history, Margaret Hamilton describes her life and career in computing. She begins with a discussion of her family background and youth, including family influences, job experiences, and the development of her interest in mathematics at Earlham College. She reviews her first impressions of computing when working as an actuarial trainee. Her first work in programming with MIT professor Edward Lorenz follows, as does details of her subsequent work at Project MAC and the Lincoln Laboratory on SAGE. She reviews her work on the software for the Apollo Guidance Computer in detail, including her work on errors, alarms, software engineering, and her memorable experiences with the Apollo 8 and Apollo 11 missions. Afterward, she reviews her work on errors leading to formal methods for avoiding them, and for control theory more broadly, developing into the Universal Systems Language. She further details the support of this work, and her experiences in creating two companies to pursue it. The interview concludes with reflections on cultural issues in computing, and more broadly.",
+    "url": "https://www.computerhistory.org/collections/catalog/102738244/",
+    "interviewee": "Margaret Hamilton",
+    "birthYear": 1936,
+    "roles": [
+      "软件工程师",
+      "软件工程奠基者"
+    ],
+    "affiliations": [
+      "MIT Instrumentation Laboratory",
+      "Draper Laboratory",
+      "Hamilton Technologies"
+    ],
+    "fields": [
+      "软件工程",
+      "航天飞行软件",
+      "系统可靠性"
+    ],
+    "interviewYear": 2017,
+    "tags": [
+      "计算机史",
+      "航天史",
+      "软件工程",
+      "阿波罗计划"
+    ],
+    "importance": 5,
+    "summary": "Hamilton 讲述从 Earlham College 的数学兴趣，到 MIT 仪器实验室为阿波罗计划编写飞行软件，并在此过程中提出\"软件工程\"一词的经历。",
+    "bio": "玛格丽特·汉密尔顿（Margaret Hamilton），阿波罗登月舱飞行软件负责人，\"软件工程\"术语的提出者。"
+  },
+  {
+    "catalogId": "102657964",
+    "title": "Kahn, Bob (Robert) oral history",
+    "description": "Robert Elliot \"Bob\" Kahn is an American elctrical engineer, who, along with Vint Cerf, invented the Transmission Control Protocol (TCP) and the Internet Protocol (IP), the fundamental communication protocols at the heart of the Internet. In 2004 Kahn won the A.M. turing Award, the highest honour in computer scinece, for the \"pioneering work on internetworking, including the design and implementation of the Internet's basic communications protocols, TCP/IP, and for inspired leadership in networking.\"",
+    "url": "https://www.computerhistory.org/collections/catalog/102657964/",
+    "interviewee": "Robert E. Kahn",
+    "birthYear": 1938,
+    "roles": [
+      "电气工程师",
+      "互联网协议设计者"
+    ],
+    "affiliations": [
+      "DARPA",
+      "CNRI"
+    ],
+    "fields": [
+      "计算机网络",
+      "互联网协议"
+    ],
+    "tags": [
+      "计算机史",
+      "互联网史",
+      "TCP/IP"
+    ],
+    "importance": 5,
+    "summary": "Kahn 讲述与 Vint Cerf 共同设计 TCP/IP 的经过，以及互联网从研究网络走向全球基础设施的过程。",
+    "bio": "罗伯特·卡恩（Bob Kahn），TCP/IP 协议共同设计者，2004 年图灵奖得主。"
+  },
+  {
+    "catalogId": "102792705",
+    "title": "Aho, Alfred oral history - Video",
+    "description": "Alfred Aho was born to a Finnish family in Timmis, Ontario, and moved with his family to Toronto at the age of two. He started at the University of Toronto in 1959, majoring in engineering physics, where he became interested in the modeling of Boolean circuits using Boolean algebra. Aho continued on to a Ph.D. in electrical engineering at Princeton, where he studied under John Hopcroft. At Princeton, Aho met Jeffrey Ullman, with whom he would forge a lifelong collaboration. Aho and Ullman both joined the newly formed Computing Sciences Research Center at Bell Labs upon graduation in 1967. (This is the lab that would produce Unix and C.) Aho and Ullman embarked upon projects related to automata theory, language theory, algorithms, and programming languages, as well as database theory. Aho’s collaborations with Ullman and others at Bell Labs were very productive, producing five books in the first ten years, including The Design and Analysis of Computer Algorithms (1974) with Hopcroft and Ullman. One collaboration, the result of Aho helping a bibliographer, Margaret Corasick, optimize her keyword search program, led to the publication of the Aho-Corasick string search algorithm. A collaboration with Ullman and Steve Johnson led to the creation of the parser generator yacc, using Don Knuth’s LR parsing algorithm. Aho was also an early adopter of Unix within Bell Labs, using the roff tool to typeset his papers. The combination of yacc and lex, a lexical analyzer generator created by Michael Lesk and optimized by Eric Schmidt, who applied one of Aho’s regular expression pattern matching algorithms to lex, became a quick way to construct the front end of a compiler. Brian Kernighan and Lorinda Cherry used yacc and lex to create EQN, a tool for typesetting mathematical notation, which would be adopted by Knuth in TeX. Ullman and Aho then codified their accumulated ideas and practical experience with parsers and other phases of compilation into the dragon books, the canonical textbooks on compilers, the first of which was published in 1977. The second edition in 1980 added a coauthor, Ravi Sethi, and added more material about the construction of efficient compilers. The third edition was published in 2007. Aho also created the AWK language with Peter Weinberger and Brian Kernighan, a Unix tool that matches patterns and executes actions in response, that was extremely useful for writing short two-line programs for routine administrative data processing tasks. Aho’s experience in compiler theory and design led to the creation of a 15-week course at Columbia University, where he joined in 1995 as chair of the computer science department. In his course, students created their own original programming languages and compilers, and incorporated software engineering lessons Aho had learned from a stint as an executive at Bellcore (the research arm of the Baby Bells) between leaving Bell Labs and joining Columbia. One of the students in the course, Krysta Svore, became Aho’s Ph.D. student and created a quantum computing programming language for her thesis, going on to become Microsoft’s VP of quantum computing. Aho’s collaboration with Svore introduced him into the world of quantum computing. In the 2000s, Aho also explored the idea of “computational thinking.” Aho rejoined Bell Labs in 1997 before returning to Columbia in 2002.",
+    "url": "https://www.computerhistory.org/collections/catalog/102792705/",
+    "interviewee": "Alfred Aho",
+    "birthYear": 1941,
+    "roles": [
+      "计算机科学家",
+      "编译器理论家"
+    ],
+    "affiliations": [
+      "Bell Labs",
+      "Columbia University"
+    ],
+    "fields": [
+      "编译原理",
+      "算法",
+      "程序设计语言"
+    ],
+    "tags": [
+      "计算机史",
+      "编译原理",
+      "Bell Labs"
+    ],
+    "importance": 4,
+    "summary": "Aho 讲述从多伦多大学的工程物理转向计算，在 Bell Labs 从事编译器与算法研究，并合著《编译原理》的过程。",
+    "bio": "阿尔弗雷德·阿霍（Alfred Aho），《编译原理》（龙书）合著者，Bell Labs 研究员。"
+  },
+  {
+    "catalogId": "102746613",
+    "title": "Catmull, Ed (Edwin) oral history : 2013 fellow",
+    "description": "Edwin Catmull’s career began at an important stage in the development of computer graphics, when declining costs of memory and computing power allowed for experimentation with new graphical techniques. After graduating from the University of Utah with a PhD in 1974 (in physics and computer science), Catmulll worked at graphics workstation vendor Applicon for a brief period. He then led the computer graphics group at the New York Institute of Technology (NYIT) where he worked with Alvy Ray Smith and others on computer animation techniques, culminating in the experimental film “Sunstone” by Smith and Ed Emshwiller. Invited by Hollywood director Steven Spielberg, Catmull, Smith and others then formed the computer graphics group at Lucasfilm. The group spun out, creating Pixar, in 1986, which attracted financing from Apple Computer, Inc. co-founder Steve Jobs. Pixar was sold to Walt Disney Studios in 2006 where Catmull was made CEO of the newly-formed Walt Disney Animation Studios. In this oral history, Catmulll describes his long career and accomplishments in an interview with Computer History Museum CEO John Hollar.",
+    "url": "https://www.computerhistory.org/collections/catalog/102746613/",
+    "interviewee": "Edwin Catmull",
+    "birthYear": 1945,
+    "roles": [
+      "计算机图形学研究者",
+      "动画电影技术管理者"
+    ],
+    "affiliations": [
+      "University of Utah",
+      "Lucasfilm",
+      "Pixar",
+      "Walt Disney Animation Studios"
+    ],
+    "fields": [
+      "计算机图形学",
+      "渲染技术",
+      "动画"
+    ],
+    "interviewYear": 2013,
+    "tags": [
+      "计算机史",
+      "图形学",
+      "Pixar"
+    ],
+    "importance": 4,
+    "summary": "Catmull 讲述在犹他大学攻读图形学的年代、存储与算力成本下降如何催生新的图形技术，以及其后在 Lucasfilm、Pixar 与迪士尼推动动画技术产业化的历程。",
+    "bio": "埃德温·卡特穆尔（Ed Catmull），计算机图形学先驱，Pixar 联合创始人。"
+  },
+  {
+    "catalogId": "102792263",
+    "title": "Wilkes, Mary Allen oral history part 1 of 2",
+    "description": "In the first part of her oral history, Mary Allen Wilkes begins with a discussion of her family background and youth. She describes her experiences as a high school student at Baltimore Friends School, from which she graduated in 1955. She recounts her desire to be a lawyer and her affinity for mathematics and logic as she began her undergraduate studies at Wellesley College, from which she graduated in 1959 as a philosophy major. Following the suggestion of an Eighth-grade teacher that she might enjoy computer programming, Wilkes applied for programming jobs at MIT immediately after graduation. She quickly secured a job at the Lincoln Laboratory, working for Oliver Selfridge and Ben Gold. After a year studying in Vienna, she returned to the Lincoln Lab in 1961 where she joined Wesley Clark’s group. There she participated in the effort to build the LINC computer from the earliest days. The majority of the oral history is devoted to Wilkes’ experiences in the LINC effort through 1965, where she led the development of its system software.",
+    "url": "https://www.computerhistory.org/collections/catalog/102792263/",
+    "interviewee": "Mary Allen Wilkes",
+    "birthYear": 1937,
+    "roles": [
+      "程序员",
+      "系统设计者",
+      "律师"
+    ],
+    "affiliations": [
+      "MIT Lincoln Laboratory",
+      "Washington University"
+    ],
+    "fields": [
+      "操作系统",
+      "交互式计算"
+    ],
+    "tags": [
+      "计算机史",
+      "操作系统",
+      "LINC"
+    ],
+    "importance": 4,
+    "summary": "Wilkes 讲述在 MIT Lincoln Laboratory 参与 LINC 操作系统开发、并在家中使用 LINC 的经历——这是最早的交互式个人计算实践之一。",
+    "bio": "玛丽·艾伦·威尔克斯（Mary Allen Wilkes），LINC 操作系统开发者，最早在家中使用计算机的人之一。"
+  },
+  {
+    "catalogId": "102792129",
+    "title": "Ozzie, Ray oral history",
+    "description": "Ray Ozzie was inspired by online collaboration in college, on the mainframe-based PLATO system. The arc of his career has been adapting collaborative features to successive platforms: Personal computers, the Internet, the cloud, mobile, and now the internet of things. PLATO (Programmed Logic for Automatic Teaching Operations) was a leading-edge computing environment for education created at the University of Illinois at Champaign-Urbana in 1960. By the early 1970s it was also evolving into perhaps the most vibrant early online community with many visionary capabilities. These included real-time chat, multi-player games, and collaborative documents, as well as email and discussion groups via a program called PLATO Notes. This early experience would shape Ozzie's career. His belief in providing access to everyone was solidified by his work with a quadriplegic programmer in college who used a mouthstick to type. Graduating in 1979, Ozzie began working at minicomputer maker Data General. But he and college buddies Tim Halvorsen and Len Kawell desperately missed PLATO, and tried to adapt its communal features to various minicomputer platforms despite limited interest from their employers. Personal computers were beginning to take off, and Ray wondered whether they might be the right platform to spread collaborative features. He moved over to Software Arts, where he worked for cofounders Dan Bricklin and Bob Frankston on VisiCalc, the legendary persoal computer spreadsheet package. But Bricklin and Frankston were too busy with current products to back his new venture. So Ray struck a deal with Lotus cofounder Mitch Kapor: Ray would create Symphony, a suite of applications extending the firm’s flagship Lotus 1-2-3 spreadsheet. Then Lotus would back his own company to build his dream—collaborative software running on networked PCs. Ray's team delivered Symphony in just nine months. Mitch Kapor made good on his promise by funding Iris Associates with $1.3 million. Ray, Tim Halvorsen, and Len Kawell began building what would be named Lotus Notes, a system for collaboration using networked personal computers. When released in 1989, Notes became the defining “groupware” product used within large enterprises worldwide. Years before the web explosion, business users were introduced to core functions of PLATO's community: Email, discussion groups, calendars, chat, and to-do lists. When IBM absorbed Lotus in a hostile takeover, Notes was the prize. IBM pushed its users to 125 million worldwide. In 1997 Ray left IBM to bring Notes-like features to the internet with Groove Networks. Decentralization was in vogue at the time, and Groove Networks was fully optimized for peer-to-peer operation, like Napster or modern torrents, using a version of blockchain technology. However, the web began moving back toward centralization. 9/11 offered Groove a key niche—connecting government agencies together. The Iraq war and the 2004 tsunami in Indonesia created a need for decentralized communication. In 2005 Microsoft bought Groove Networks, which became part of SharePoint. Ray took over as Microsoft's chief software architect from none other than . . . Bill Gates. Ray pushed to take Microsoft toward online software and services, and championed Office 365 and the effort to build its Azure Cloud Services. But the company was slow to shift away from its huge PC-based Office revenue. Ray left Microsoft in 2010 and was soon part of the founding team at Safecast, a nonprofit global environmental monitoring effort organized in the wake of the Fukushima disaster. In 2012 Ray started Talko Inc. to make mobile apps and services for business groupware. The name was an homage to the PLATO system’s “Talkomatic” chat program. Ray sold Talko to Microsoft in December 2015. He then founded Blues Wireless to adapt global cellular infrastructure for the Internet of Things, including \"citizen science\" efforts like SafeCast.",
+    "url": "https://www.computerhistory.org/collections/catalog/102792129/",
+    "interviewee": "Ray Ozzie",
+    "birthYear": 1955,
+    "roles": [
+      "软件架构师",
+      "企业家"
+    ],
+    "affiliations": [
+      "Lotus Development",
+      "Microsoft",
+      "Groove Networks"
+    ],
+    "fields": [
+      "协作软件",
+      "云计算"
+    ],
+    "tags": [
+      "计算机史",
+      "协作软件",
+      "PLATO"
+    ],
+    "importance": 4,
+    "summary": "Ozzie 讲述在 PLATO 系统上受到的在线协作启发，及其后把协作能力依次带上个人电脑、互联网、云端与移动平台的历程。",
+    "bio": "雷·奥兹（Ray Ozzie），Lotus Notes 创造者，微软首席软件架构师。"
+  },
+  {
+    "catalogId": "102657992",
+    "title": "Metcalfe, Bob (Robert M.) oral history, part 1 of 2",
+    "description": "Robert (Bob) Metcalfe led invention, standardization, and commercialization of the Ethernet local-area networking system for personal computers (PCs). Metcalfe was born on April 7, 1946 in Brooklyn, New York. He graduated from Massachusetts Institute of Technology (MIT) in 1969 with bachelor's degrees in electrical engineering and industrial management. At Harvard University in 1970, he earned his master's degree in applied mathematics. His 1973 Harvard Ph.D. dissertation, Packet Communication, came out of research on Arpanet at MIT Project MAC and on Alohanet at the University of Hawaii. In 1972, Metcalfe joined the Xerox Palo Alto Research Center (PARC). He worked in the Computer Science Laboratory led by Jerry Elkind, Bob Taylor, Butler Lampson, and Chuck Thacker, who were developing early PCs. Metcalfe, in collaboration with David Boggs, invented and developed the Ethernet local-area network (LAN) and its system of packet protocols, which have proliferated and evolved to become today's Internet plumbing. In 1979, Metcalfe founded 3Com Corporation to promote \"computer communication compatibility.\" 3Com initially developed PC LAN products based on emerging UNIX, TCP/IP, and Ethernet standards, went public in 1984, and grew into a billion-dollar networking company. Metcalfe served as the \"marriage broker\" who convinced DEC, Intel, and Xerox (DIX) to work together to promote Ethernet as an open standard.",
+    "url": "https://www.computerhistory.org/collections/catalog/102657992/",
+    "interviewee": "Robert M. Metcalfe",
+    "birthYear": 1946,
+    "roles": [
+      "工程师",
+      "企业家"
+    ],
+    "affiliations": [
+      "MIT",
+      "Xerox PARC",
+      "3Com"
+    ],
+    "fields": [
+      "计算机网络",
+      "以太网"
+    ],
+    "tags": [
+      "计算机史",
+      "互联网史",
+      "以太网",
+      "Xerox PARC"
+    ],
+    "importance": 4,
+    "summary": "Metcalfe 讲述以太网从发明、标准化到商业化的全过程，以及在 Xerox PARC 的工作与创办 3Com 的经历。",
+    "bio": "罗伯特·梅特卡夫（Bob Metcalfe），以太网发明者，3Com 创始人。"
+  },
+  {
+    "catalogId": "102738252",
+    "title": "Vittal, John oral history",
+    "description": "John Vittal is best known for having created one of the very first modern, integrated email programs, MSG, which would deepen email’s hold as the initial “killer application” on the net. He also helped develop email standards still in use today. Born and raised in Southern California, he went to Brigham Young University as an undergraduate before graduate studies in Computer Science at UC Irvine. He then joined ISI (USC's Information Sciences institute), which was heavily involved in early networking with ARPA. Since the early 1960s email and messaging had existed in various forms on timesharing systems, where multiple users share a single computer. As ARPANET began to connect different computers and their groups of users together for the first time, ways of sending email across the network began exploding in popularity. But early networked email lacked many convenient features familiar today, like being able to organize messages and easily reply or forward. ARPANET users had to do a lot of hand copying and formatting to manage their mail, for example using Ray Tomlinson’s SNDMSG program to send it, and Larry Roberts’ separate RD program to read it. Vittal's 1974 MSG program combined these and other functions into a single, convenient package, establishing a model used by email programs up to the present. Vittal soon moved to BBN (Bolt, Beranek and Newman) in the Boston area for further work on email funded by ARPA (Advanced Resarch Projects Agency). BBN had developed critical hardware and software for ARPANET, a key part of the later Internet. He participated in a number of early working groups and standards committees for email, while his main professional work gradually moved to other interests including AI, user experience, transportable programming, and project management. In 1982 he moved to Xerox where he managed the group that provided consulting and training services around AI. As a senior research manager at GTE from the late ‘80s through the ‘90s, he saw messaging and other connected functions reach the masses. There, at Verizon and later he managed a wide range of research and development groups, served on many boards and as an advisor to a wide range of startup companies on both business and technical issues. Vittal has had numerous publications, and been an invited speaker at many national and international conferences. He has been a member of Internet Society, IETF, ACM, IEEE, and American Association of Artificial Intelligence. Vittal worked with ARPAnet and Internet pioneer Elizabeth “Jake” Feinler to create the Email Bibliographic Timeline, which since 2022 is in the Museum’s collection along with many of the documents it cites",
+    "url": "https://www.computerhistory.org/collections/catalog/102738252/",
+    "interviewee": "John Vittal",
+    "roles": [
+      "软件工程师",
+      "电子邮件系统设计者"
+    ],
+    "affiliations": [
+      "USC Information Sciences Institute",
+      "BBN"
+    ],
+    "fields": [
+      "电子邮件",
+      "网络协议"
+    ],
+    "tags": [
+      "计算机史",
+      "电子邮件",
+      "互联网史"
+    ],
+    "importance": 3,
+    "summary": "Vittal 讲述开发 MSG——最早的现代集成邮件程序之一——的经过，以及参与制定沿用至今的邮件标准的经历。",
+    "bio": "约翰·维塔尔（John Vittal），集成邮件程序 MSG 的作者，邮件标准制定参与者。"
+  }
+]
