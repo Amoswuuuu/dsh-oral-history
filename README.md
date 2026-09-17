@@ -162,21 +162,33 @@ npm run typecheck:client
 npm run smoke          # 端到端测试：领域/存储 smoke + 全部 REST 路由（150+ 断言，纯 Node，无需浏览器）
 ```
 
-### 示范数据集（真实公开史料）
-
-仓库带一个策展过的示范数据集，取自 **Computer History Museum 公开在线馆藏目录**的口述史专藏——
-12 位 AI 史 / 计算机史人物（McCarthy、Knuth、Feigenbaum、Pearl、Hamilton、Kahn、Metcalfe、
-Catmull、Wilkes、Aho、Ozzie、Vittal），含真实馆藏号、机构、领域与目录摘要。
+### 示范数据集（真实中文语音）
 
 ```bash
-node scripts/seed-demo.mjs --with-transcript   # 写入默认档案目录
+node scripts/seed-zh-demo.mjs        # 写入默认档案目录
 ```
 
-这一步只写入**元数据**，不下载音频（CHM 音频有独立使用条款，请遵守其条款后自行获取）。
-它顺带演示了本工作台的一个核心主张：**馆藏号（callNumber）是比 DOI 更可靠的一手史料去重键**。
+随仓库分发 **60 条真实中文普通话录音**（4 位说话人，共约 5 分钟，9.6MB），
+来自公开数据集 **AISHELL-1** 子集（ModelScope 分发，Apache-2.0，可自由使用与再分发）。
 
-载入后可直接用真实数据验证三个视图与图谱：`MIT` 会正确聚合出 McCarthy 与 Metcalfe 两位校友，
-`q=LISP` 命中 McCarthy、`q=TeX` 命中 Knuth 与 Aho——师承与机构网络是从档案里长出来的，不是写死的。
+音频是**真的、能听的**：载入后播放器可以正常播放、拖进度条、调倍速，
+`/oral-history/interviews/:id/audio` 会返回真实 WAV 流。
+
+**逐字稿刻意留空**——这是设计决定，不是遗漏。该数据集未随包提供官方转写文本，
+所以脚本不写入任何分段正文，只留一条 `inaudible` 段说明原因。
+与其拿一段编造的文本冒充转录结果，不如让界面空着，由你听录、或接入 ASR 生成
+`raw` 分段后再逐段听校。**本工作台最不能犯的错，就是把没有人听过的字当成证据。**
+
+> 语体说明：AISHELL-1 是**朗读语音**，不是自然访谈口语。
+> 用它验证播放、定位、状态流转是合适的；但不要据此判断工具在真实口述史
+> （方言、重叠话轮、口语冗余、老年受访者语速）上的表现。
+
+#### 另一版英文示范数据（已存档）
+
+早期版本曾以 Computer History Museum 公开目录做过一版英文示范数据，
+现已移出主线，保留在 `archive/chm-demo` 分支。移出的原因有两条：
+语料是英文的，对中文口述史没有代表性；且那版的"逐字稿"是拿目录摘要拼装的，
+并非真实转录——这正是上面那条约束要防的事。
 
 ### 架构
 
@@ -205,8 +217,9 @@ src/
 scripts/
 ├── smoke-test.mjs      # 领域 + 存储端到端断言
 ├── route-test.mjs      # 全部 REST 路由（含真实 http 附件流）
-├── seed-demo.mjs       # 载入 CHM 示范数据集
-└── demo-data/          # 策展后的真实公开元数据
+├── seed-zh-demo.mjs    # 载入中文示范语料（含音频）
+├── seed-demo.mjs       # 旧：CHM 英文示范数据（已存档）
+└── demo-data/          # 中文音频 + 元数据清单
 ```
 
 技术约束备忘：
