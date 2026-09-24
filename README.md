@@ -235,3 +235,24 @@ scripts/
 ## 许可
 
 MIT
+
+## 评估与演示文档
+
+面向研究者的成果材料，位于 `docs/`：
+
+| 文档 | 内容 |
+|---|---|
+| [`阶段性成果报告.md`](docs/阶段性成果报告.md) | 功能清单、转录准确率实测、测试数据申请说明 |
+| [`逐条转录对照表.md`](docs/逐条转录对照表.md) | 30 条样本的参考文本 vs 机器转录逐条对照 |
+| [`工作流程演示.md`](docs/工作流程演示.md) | 用一条真实错例走完「转录→听校→修正→建卡→导出」全流程 |
+
+### 复现准确率数字
+
+```bash
+node scripts/eval-asr.mjs --truth scripts/eval-data/truth-aishell30.txt \
+                          --hyp   scripts/eval-data/hyp
+```
+
+预期结果：**字错率 24.1%，字准确率 75.9%**（30 条 / 464 字 / Whisper base / 2 核 CPU）。
+
+用真实访谈数据替换 `truth-*.txt` 与 `hyp-*/` 即可得到可直接对比的数字。
